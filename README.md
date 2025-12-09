@@ -1,2 +1,2 @@
 # ESP32S3_Web_WiFi_Setup
-可连接ESP32的WiFi后进入Web服务端进行配网并抓取当前北京时间
+可连接ESP32的WiFi后进入Web服务端进行配网并通过ntp获取当前北京时间在Web端进行显示
